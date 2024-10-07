@@ -11,6 +11,14 @@ h1{
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(83, 1, 83); /* pick a color */
+background: rgb(83, 1, 83);
 border-radius: 25%;
 }
+.project img{
+    width: 300px;
+   /* height: 300px; */
+    margin: 10px;
+    border: 2px solid rgb(42, 115, 250);
+    display: block;
+    margin: auto;
+    }
